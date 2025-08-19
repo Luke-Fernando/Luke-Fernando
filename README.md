@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Luke-Fernando
-- 👀 I’m interested in Web Development and Programming
-- 🌱 I’m currently learning JavaScript and it's frameworks
-- 💞️ I’m looking to collaborate on some open-source projects
-- 📫 You can contact me using my e-mail lukefernando.contact@gmail.com
+# Hi, I'm Luke  
 
-<!---
-Luke-Fernando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Code + Coffee + Curiosity  
+
+```diff
++ Building tools, breaking limits
+- Ignoring boring solutions
+
+Tech I use
+
+PHP · Java · MySQL · JS · NextJs · Docker
+
+
+What I do
+
+    Freelance Web Developer
+    Twitch Overlay Development
+    SEO
+
+
+🌍 Connect with me
+
+    🌐 Website: lukefernando.dev
+    📧 Email: info@lukefernando.dev
