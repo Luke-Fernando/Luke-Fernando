@@ -1,24 +1,18 @@
+
 # Hi, I'm Luke  
 
 > Code + Coffee + Curiosity  
 
 ```diff
 + Building tools, breaking limits
-- Ignoring boring solutions
+- Escaping the loop
 
-Tech I use
-
-PHP · Java · MySQL · JS · NextJs · Docker
-
-
-What I do
-
-    Freelance Web Developer
-    Twitch Overlay Development
-    SEO
+Programming is simulating existence
+Let's explore the secrets using what we have
 
 
 🌍 Connect with me
 
     🌐 Website: lukefernando.dev
     📧 Email: info@lukefernando.dev
+    ▶️ Youtube: youtube.com/@buildbyluke
